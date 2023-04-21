@@ -1,7 +1,17 @@
 h1 {
-	margin-top: 100px;
+	/* margin-top: 100px; */
 	text-align: center;
 	color: rgb(148, 15, 15);
+	margin: auto;
+}
+
+h2 {
+	/* margin-top: 100px; */
+	text-align: center;
+	color: rgb(148, 15, 15);
+	margin: auto;
+	margin-top: 80px;
+	margin-bottom: 80px;
 }
 
 form {
@@ -54,6 +64,7 @@ header {
 	text-align: center;
 	padding: 0.25px;
 	font-style: oblique;
+	
   }
     
   body{
